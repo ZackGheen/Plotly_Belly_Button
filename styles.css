@@ -1,0 +1,37 @@
+.jumbotron {
+    background-image: url("image.jpg");
+    background-size: cover;
+    text-align: center;
+  }
+
+.jumbotron h1 {
+    color: #f7f7f7;
+}
+
+.jumbotron p {
+    color: #f7f7f7;
+}
+body {
+    background: #605f75 !important;
+}
+
+.panel-title {
+    background: #7980df;
+}
+
+.panel-default {
+    background: #7980df;
+}
+
+.panel-heading {
+    background: #7980df !important;
+    color: #f7f7f7 !important;
+}
+
+.panel-body {
+    color: #f7f7f7;
+}
+
+.well {
+    color: #6c757d;
+}
